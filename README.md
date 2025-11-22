@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adarsh%20Santhosh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20AI%20Enthusiast&descAlignY=51&descSize=20" width="100%" alt="Adarsh Santhosh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adarsh%20Santhosh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20AI%20Enthusiast&descAlignY=51&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
 <br/>
 
 <div align="center">
   <h2> 🚀 Transforming Ideas into Apps with Jetpack Compose </h2>
- 
 </div>
 
 <br/>
-<img src=""Blue & Black Modern Technology LinkedIn Banner.png">
+
+<div align="center">
+  <img src="banner.png" width="100%" alt="Middle Banner">
+</div>
 <br/>
 
 ### 👨‍💻 About Me
