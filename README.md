@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2> 🚀 Transforming Ideas into Apps with Jetpack Compose </h2>
-  <h2> 🏍️ Coder by Day, Rider by Night </h2>
+ 
 </div>
 
 <br/>
