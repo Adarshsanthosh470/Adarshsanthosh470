@@ -10,7 +10,7 @@
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-997a170e-50aa-4b96-b623-5868b170b435.gif" width="100%">
+<img src=""C:\Users\USER\Downloads\Blue & Black Modern Technology LinkedIn Banner.png"" width="100%">
 <br/>
 
 ### 👨‍💻 About Me
