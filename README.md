@@ -1,16 +1,32 @@
-## Hi there 👋
+const myProfile = {
+    name: "ADARSH SANTHOSH",
+    location: "Kottayam,Kerala, India",
+    education: "B.Tech Computer Science @visat engineering collage",
+    graduation: "2026",
+    role: "Software Developer & AI Enthusiast",
+    
+    currentFocus: [
+        "📱 Building TaskHero with Jetpack Compose & Material 3",
+        "🏘️ Creating Neighborhood Connectivity Application",
+        "⚡ Exploring Vibe Coding tools (Lovable, Bolt, Cursor)",
+        "🐍 Python Scripting & Automation"
+    ],
+    
+    repositories: [
+        "✅ TaskHero - Productivity Suite (Calc, Todo, Debt Tracker)",
+        "🏍️ Draw BUddy Magic - Digital edits & Photography",
+        "🏘️ Community Connect - Agile Mobile Project"
+    ],
+    
+    askMeAbout: [
+        "Android Development (Kotlin/Compose)", 
+        "AI-Powered Coding Workflows", 
+        "Python Automation", 
+        "Motorcycles & Riding 🏍️", 
+        "System Monitoring Scripts"
+    ],
+    
+    
+};
 
-<!--
-**Adarshsanthosh470/Adarshsanthosh470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
