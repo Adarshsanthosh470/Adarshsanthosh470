@@ -10,7 +10,7 @@
 </div>
 
 <br/>
-<img src=""C:\Users\USER\Downloads\Blue & Black Modern Technology LinkedIn Banner.png"" width="100%">
+<img src=""Blue & Black Modern Technology LinkedIn Banner.png">
 <br/>
 
 ### 👨‍💻 About Me
