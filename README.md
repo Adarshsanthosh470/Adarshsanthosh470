@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Middle Banner">
+  <img src="Blue & Black Modern Technology LinkedIn Banner.png" width="100%" alt="Middle Banner">
 </div>
 <br/>
 
