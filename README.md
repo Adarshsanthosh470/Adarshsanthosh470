@@ -5,7 +5,9 @@
 <br/>
 
 <div align="center">
-  <h2> 🚀 Transforming Ideas into Apps with Jetpack Compose </h2>
+  <h2> 🚀 AI-Assisted Developer Turning Concepts into Clean Code </h2>
+
+<h2>🤖 Powered by AI, Driven by Curiosity</h2>
 </div>
 
 <br/>
