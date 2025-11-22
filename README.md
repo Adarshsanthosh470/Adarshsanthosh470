@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adarsh%20Santhosh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%26%20AI%20Enthusiast&descAlignY=51&descSize=20" width="100%" alt="Header Banner" />
+  <img src="Blue & Black Modern Technology LinkedIn Banner.gif" width="100%" alt="Header Animation" />
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="Blue & Black Modern Technology LinkedIn Banner.png" width="100%" alt="Middle Banner">
+  <img src="middle.png" width="100%" alt="Middle Banner">
 </div>
 <br/>
 
@@ -42,7 +42,6 @@ const adarshSanthosh = {
         "Android Development (Kotlin/Compose)", 
         "AI-Powered Coding Workflows", 
         "Python Automation", 
-        "Motorcycles & Riding 🏍️", 
-        "System Monitoring Scripts"
+      
     ],
 };
