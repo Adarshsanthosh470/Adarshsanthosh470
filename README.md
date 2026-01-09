@@ -1,4 +1,6 @@
-const adarshSanthosh = {
+<img src="./Blue & Black Modern Technology LinkedIn Banner.gif" width="180" />
+
+```jsconst adarshSanthosh = {
     name: "Adarsh Santhosh",
     location: "Kerala, India 🇮🇳",
     education: "B.Tech Computer Science & Engineering @ VISAT Engineering College",
