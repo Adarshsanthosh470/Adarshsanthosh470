@@ -1,4 +1,7 @@
-<img src="./Blue & Black Modern Technology LinkedIn Banner.gif" width="180" />
+<p align="center">
+  <img src="./Blue & Black Modern Technology LinkedIn Banner.gif" alt="Adarsh Santhosh Banner" />
+</p>
+
 
 ```jsconst adarshSanthosh = {
     name: "Adarsh Santhosh",
