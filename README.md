@@ -37,7 +37,8 @@ const adarshSanthosh = {
     repositories: [
         "✅ TaskHero - Productivity Suite (Calc, Todo, Debt Tracker)",
         "🏍️ Draw Buddy Magic - Digital edits & Photography",
-        "🏘️ Community Connect - Agile Mobile Project"
+        "🏘️ Community Connect - Agile Mobile Project",
+        "✅Codeless Portfolio is a zero-coding portfolio builder  — without writing a single line of code."
     ],
     
     askMeAbout: [
